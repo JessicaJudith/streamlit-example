@@ -1,7 +1,3 @@
-
-# %%writefile FER_WebApp.py
-
-
 import logging
 import logging.handlers
 import threading
