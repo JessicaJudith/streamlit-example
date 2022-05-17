@@ -3,7 +3,7 @@ import logging.handlers
 import threading
 from pathlib import Path
 import streamlit as st
-import cv2
+# import cv2
 import numpy as np
 from keras.models import model_from_json
 from keras.preprocessing.image import img_to_array
